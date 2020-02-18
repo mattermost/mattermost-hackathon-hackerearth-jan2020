@@ -27,4 +27,10 @@ For more submission guidelines, see the HackerEarth portal: https://www.hackerea
 
 ## Things to know
 
-To learn more about the event, form your teams and ask questions, see the HackerEarth portal: https://www.hackerearth.com/challenges/hackathon/mattermost-bot-hackfest/
+1 - To learn more about the event, form your teams and ask questions, see the HackerEarth portal: https://www.hackerearth.com/challenges/hackathon/mattermost-bot-hackfest/
+
+2 - Looking for a mentor, or have technical questions? Reach out to us in the public Hackathon channel: https://community.mattermost.com/core/channels/mm-hackathon-bot-hackfest-jan2020
+
+3 - All [qualified submissions](https://www.hackerearth.com/challenges/hackathon/mattermost-bot-hackfest/custom-tab/submission-guideline/#Submission%20Guideline) receive a Mattermost swag bag!
+
+![image](https://user-images.githubusercontent.com/13119842/74739306-8f062180-5226-11ea-9a2f-8ff78b56300b.png)
