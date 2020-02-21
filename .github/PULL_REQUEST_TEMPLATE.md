@@ -1,4 +1,4 @@
-Submit your Hackathon project following these steps:
+<!-- Submit your Hackathon project following these steps:
 
 **Part 1:**
 
@@ -14,3 +14,4 @@ Submit your Hackathon project following these steps:
 5. Submit a link to the pull request (from step 4) on HackerEarth to count as a hackathon participant.
 
 For more submission guidelines, see the HackerEarth portal: https://www.hackerearth.com/challenges/hackathon/mattermost-bot-hackfest/custom-tab/submission-guideline/#Submission%20Guideline
+-->
