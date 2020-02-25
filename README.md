@@ -1,10 +1,12 @@
-# Mattermost Bot Hackfest Jan 10 - Feb 28, 2020
+# Mattermost Bot Hackfest Jan 10 - Mar 2, 2020
 
 Mattermost is holding a virtual Bot Hackfest and everyone is invited to participate! 
 
 The goal of this hackathon is to create bots that bring ChatOps to the heart of Mattermost. You have the opportunity to create an open source bot that is used by millions of people from small teams to large enterprises, and make a lasting impact on the DevOps community. Together, let’s create something amazing!
 
 Register for the event and find out more at https://www.hackerearth.com/challenges/hackathon/mattermost-bot-hackfest/.
+
+All projects should be submitted by 00:55AM San Francisco time, March 2, 2020.
 
 ## How do I submit my project?
 
