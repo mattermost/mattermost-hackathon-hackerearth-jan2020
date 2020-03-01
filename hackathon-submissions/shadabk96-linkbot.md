@@ -3,11 +3,11 @@
 ## Summary
 
 * Linkbot aims to improve user workflow by organizing the links shared on Mattermost groups.
-* This would greatly enhance user experience, encouraging knowledge sharing and increasing productivity. 
-* Linkbot silently listens to links posted on channels (it's present in) and provides a unified view for quick access.
-* Supports search for a specific time period or search via tags.
-* Supports scheduling periodic (weekly/monthly) aggregation of links shared. 
-* With additional linkbot-plugin, linkbot provides a clean UI to access knowledge shared. 
+* This would enhance user experience, encourage knowledge sharing and increase productivity. 
+* Linkbot silently listens to links posted on channels (it is a part of) and provides a unified view for quick access.
+* Supports searching links for a specific time period and/or search via tags.
+* Supports scheduling periodic aggregation of links (weekly/monthly) posted across channels in a team. 
+* With additional [linkbot-plugin](https://github.com/shadabk96/mattermost-linkbot-plugin), linkbot provides a clean UI to access the knowledge shared. 
 
 ## Project Link
 
