@@ -15,6 +15,10 @@
 ## Documentation/Presentation
 
 * [GoScrum](https://coda.io/d/GoScrum-io_dzPwc-_pSMc/GoScrum_suq_O#_luep9)
+* [GoScrum-Client](https://coda.io/d/GoScrum-io_dzPwc-_pSMc/GoScrum-Client_suFl1#_lu_GL)
+* [GoScrum-Mattermost-Bot](https://coda.io/d/GoScrum-io_dzPwc-_pSMc/GoScrum-Mattermost-bot_suNg1#_luiYU)
+* [GoScrum-Server](https://coda.io/d/GoScrum-io_dzPwc-_pSMc/GoScrum-Server_suunh#_lu4BF)
+* [How to use GoScrum.io with Mattermost](https://coda.io/d/GoScrum-io_dzPwc-_pSMc/How-to-use-GoScrum-io-with-Mattermost_suXG_#_lu1Ij)
 
 ## Authors
 
