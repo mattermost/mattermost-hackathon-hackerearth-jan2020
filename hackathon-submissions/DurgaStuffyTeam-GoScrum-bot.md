@@ -27,8 +27,10 @@
 - Oauth Callback URL: https://api.goscrum.io/oauth/mattermost/callback
 
 ## Configuration And Demo Videos
-- [GoScrum- Part 1 Create Mattermost OAuth Application for GoScrum ](https://youtu.be/tafDvQ8_Cjg)
-- [GoScrum Bot - Part 3 Bot will ask questions](https://youtu.be/c_sCU9ic69c)
+- [GoScrum - Part 1 - Create Mattermost OAuth Application for GoScrum ](https://youtu.be/tafDvQ8_Cjg)
+- [GoScrum - Part 2 - Mattermost workspace configuration in GoScrum.io](https://youtu.be/sk0DqNqNdPc)
+- [GoScrum - Part 3 - Project Creation in GoScrum.io](https://youtu.be/M9GF-ldDEHw)
+- [GoScrum - Part 4 - Bot will ask questions](https://youtu.be/c_sCU9ic69c)
 
 ## Authors
 
