@@ -25,3 +25,6 @@
 * Durgaprasad Budhwani - [Github](https://github.com/Durgaprasad-Budhwani) | [LinkedIn](https://www.linkedin.com/in/durgaprasad-budhwani/)
 * Mehul Thakkar - [Github](https://github.com/mehulcse) | [LinkedIn](https://www.linkedin.com/in/mehulcse/)
 * Sushil Shinde - [Github](https://github.com/sushil88) | [LinkedIn](https://www.linkedin.com/in/sushil88/)
+
+## Hackfest Team Details
+- [DurgaStuffyTeam](https://www.hackerearth.com/challenges/hackathon/mattermost-bot-hackfest/dashboard/27bfe4c/team/)
