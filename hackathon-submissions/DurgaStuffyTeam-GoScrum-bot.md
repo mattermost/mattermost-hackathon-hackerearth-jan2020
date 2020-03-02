@@ -1,0 +1,23 @@
+# GoScrum
+
+## Summary
+
+* GoScrum along with MatterMost makes your job easy by allowing bot to manage your daily scrum activities.
+* Scrum master can prepare a routine stand-question form. Bot will sync with the team members individually to get the answers and publish them on the scrum mattermost channel.
+* Bot will also monitor teams activities on Gitlab and update team about code merges and code reviews.
+
+## Repositories
+
+* [GoScrum bot](https://github.com/Go-Scrum/mattermost-bot)
+* [GoScrum client](https://github.com/Go-Scrum/goscrum-client)
+* [GoScrum Server](https://github.com/Go-Scrum/goscrum-server)
+
+## Documentation/Presentation
+
+* [GoScrum](https://coda.io/d/GoScrum-io_dzPwc-_pSMc/GoScrum_suq_O#_luep9)
+
+## Authors
+
+* Durgaprasad Budhwani - [Github](https://github.com/Durgaprasad-Budhwani) | [LinkedIn](https://www.linkedin.com/in/durgaprasad-budhwani/)
+* Mehul Thakkar - [Github](https://github.com/mehulcse) | [LinkedIn](https://www.linkedin.com/in/mehulcse/)
+* Sushil Shinde - [Github](https://github.com/sushil88) | [LinkedIn](https://www.linkedin.com/in/sushil88/)
